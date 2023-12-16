@@ -1,6 +1,4 @@
 {
-
-    "homepage": "https://Navnit7352.github.io/Food-Recipes-react-App",
   
     "name": "react_crash_course_code_with_harry",
   
@@ -55,12 +53,6 @@
   
       
     "start": "react-scripts start",
-
-
-    "predeploy": "npm run build",
-
-
-    "deploy": "gh-pages -d build",
   
       
     "build": "react-scripts build",
